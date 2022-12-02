@@ -1,0 +1,6 @@
+body {background-color: whitesmoke;}
+table {
+    width: 600px;
+    margin:0 auto;
+}
+thead {background-color: gainsboro;}
